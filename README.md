@@ -1,16 +1,53 @@
-### Hi there 👋
+[![Github](https://img.shields.io/github/followers/SahnounYusuf?label=Follow&style=social)](https://github.com/MarwaNoomene)
+<h2>Welcome to my playground</h2>
 
-<!--
-**marwanoomene/MarwaNoomene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-Here are some ideas to get you started:
+<ul>
+<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🐍</g-emoji> I’m a Python Back-end  developer</li>
+<li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">🤝</g-emoji> I want to exchange knowledge with others about different technologies </li>
+<li><g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png">✅</g-emoji> Goals: Dive deeper into this amazing world of IT</li>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</ul>
+ 
+<!--<div>
+ 
+![Snake animation](https://github.com/fabricius1/fabricius1/blob/output/github-contribution-grid-snake.svg)
+</div>  -->
+
+<br>
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=django&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=gcp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gcp.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=azure&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/azure.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=typecript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=angularjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'> </a>
+
+
+<h2> Connect with me </h2>
+
+<a href = 'https://www.linkedin.com/in/marwa-noomene/'> <img width = '32px' align= 'left' margin="10px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+
+<a href = ''> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+
+
+<br>
+<h2>⚡ GitHub Stats</h2>
+<!-- [![MarwaNoomene's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MarwaNoomene)](https://git.io/praveenscience) -->
+
+<a href="/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarwaNoomene&show_icons=true&theme=dark&card_width=300" />
+</a>
+<!-- <a href="/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarwaNoomene&langs_count=8&theme=dark&hide_progress=true&card_width=300" />
+</a> -->
+
+<a href= "/">
+ <img height=200 padding-right="center" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarwaNoomene&theme=dark&card_width=320"/>
+</a>
