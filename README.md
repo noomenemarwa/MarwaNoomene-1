@@ -21,7 +21,7 @@
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=django&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>
 <!-- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a> -->
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=gcp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gcp.svg'> </a>
+<!-- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=gcp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gcp.svg'> </a> -->
 <!-- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=azure&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/azure.svg'> </a> -->
 <!-- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a> -->
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
